@@ -4,4 +4,6 @@ project(LearnCPP)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(LearnCPP main.cpp
-        learn_array.cpp)
+        learn_array.cpp
+        varconst/main.cpp
+)
