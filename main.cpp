@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hello, World" << endl;
+    cout << "Learning C++ for DSA" << endl;
     return 0;
 }

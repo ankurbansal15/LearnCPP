@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    
+
     int score;
     score = 110;
 
@@ -14,7 +14,7 @@ int main(){
     // uid = 1223;
     cout << "Welcome to cpp 1" << endl ;
 
-    
+
     cout << "Welcome to cpp 2" << endl ;
     cout << "Welcome to cpp 3" << endl ;
 
